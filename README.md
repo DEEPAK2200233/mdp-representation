@@ -14,8 +14,6 @@ The problem involves detecting road blockages in a city. The goal is to identify
 
 The state space consists of all possible road conditions at a given time. Each state represents a specific configuration of roads, including whether they are blocked or clear.
 
-    State variables: S = {S_1, S_2, ..., S_n}, where S_i represents a possible state, including the conditions of different roads (e.g., road open, road blocked).
-
 ### Sample State
 
 A sample state could be: S = {Road_1: Clear, Road_2: Blocked, Road_3: Clear}
@@ -33,9 +31,6 @@ A sample action could be: A = {Take Alternate Route}
 ### Reward Function
 
 The reward function assigns rewards based on the effectiveness of the chosen action in reaching the destination without delay. A higher reward is given for efficient routes, while a penalty is assigned for blocked roads or unnecessary detours.
-
-    Reward function: R(S, A) = Positive reward for reaching the destination efficiently, negative reward for taking a detour or encountering a blockage.
-
 
 ### Graphical Representation
 Write your answer here
