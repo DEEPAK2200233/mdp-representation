@@ -32,8 +32,7 @@ The reward function assigns rewards based on the effectiveness of the chosen act
 
 ### Graphical Representation
 
-![WhatsApp Image 2024-09-03 at 19 33 04_9d00ff7e](https://github.com/user-attachments/assets/71b8d7f5-9d62-4eb0-8f7d-40b0a1e8b8e1)
-
+![WhatsApp Image 2024-09-03 at 19 35 09_f88dc6b0](https://github.com/user-attachments/assets/b4acc3a5-a9f3-4869-b316-064ac800881e)
 
 ## PYTHON REPRESENTATION:
 ![image](https://github.com/user-attachments/assets/4d72ae22-61b2-4b43-af2d-9ea2de93dd3b)
