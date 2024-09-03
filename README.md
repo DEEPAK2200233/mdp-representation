@@ -22,8 +22,6 @@ A sample state could be: S = {Road_1: Clear, Road_2: Blocked, Road_3: Clear}
 
 The action space consists of the set of possible actions that a vehicle can take when encountering a blocked road. These actions involve choosing an alternative route or proceeding along the current path.
 
-    Action variables: A = {A_1, A_2, ..., A_n}, where A_i represents an action, such as "Take Alternate Route 1" or "Proceed on Current Route."
-
 ### Sample Action
 
 A sample action could be: A = {Take Alternate Route}
@@ -34,7 +32,8 @@ The reward function assigns rewards based on the effectiveness of the chosen act
 
 ### Graphical Representation
 
-![WhatsApp Image 2024-09-03 at 19 21 50_07048a5e](https://github.com/user-attachments/assets/e66e3e90-e382-4e75-bfc0-86ba68249aaa)
+![WhatsApp Image 2024-09-03 at 19 33 04_9d00ff7e](https://github.com/user-attachments/assets/71b8d7f5-9d62-4eb0-8f7d-40b0a1e8b8e1)
+
 
 ## PYTHON REPRESENTATION:
 ![image](https://github.com/user-attachments/assets/4d72ae22-61b2-4b43-af2d-9ea2de93dd3b)
