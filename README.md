@@ -33,7 +33,8 @@ A sample action could be: A = {Take Alternate Route}
 The reward function assigns rewards based on the effectiveness of the chosen action in reaching the destination without delay. A higher reward is given for efficient routes, while a penalty is assigned for blocked roads or unnecessary detours.
 
 ### Graphical Representation
-Write your answer here
+
+![WhatsApp Image 2024-09-03 at 19 21 50_07048a5e](https://github.com/user-attachments/assets/e66e3e90-e382-4e75-bfc0-86ba68249aaa)
 
 ## PYTHON REPRESENTATION:
 ![image](https://github.com/user-attachments/assets/4d72ae22-61b2-4b43-af2d-9ea2de93dd3b)
